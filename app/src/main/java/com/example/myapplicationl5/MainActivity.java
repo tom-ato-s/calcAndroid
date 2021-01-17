@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         btn = (Button)findVeiwById(R.id.button);
         btn.setOnClickListenner{
             new View.OnClickListener()
-
+q
         }
 
     }
